@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
-    package="com.platzi.android.rickandmorty.data"
+    package="com.platzi.android.rickandmorty.framework.imagemanager"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
 </manifest>
